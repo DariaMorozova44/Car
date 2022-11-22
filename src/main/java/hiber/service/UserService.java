@@ -10,3 +10,4 @@ public interface UserService {
 
     User getUserByCar(String model, int series);
 }
+
